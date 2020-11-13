@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ProjektiX</string>
+    <string name="go">GO!</string>
+    <string name="projektix">ProjektiX</string>
+    <string name="todo">TODO</string>
+        <string name="button_employed">I\'m in a constant rush</string>
+    <string name="button_yes">Things to do at home</string>
+        <string name="button_no">Improving my daily life</string>
+        <string name="button_improvement">Needs improvement</string>
+        <string name="button_good">Good</string>
+        <string name="button_go">Lets go</string>
+    <string name="text_family">How is your relationship with your family?</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="text_partner">I\'m looking for...</string>
+    <string name="things_to_do_at_home">Things to do at home</string>
+    <string name="ways_to_improve_daily_life">Ways to improve daily life</string>
+    <string name="outdoor_activities">Outdoor activities</string>
+    <string name="something_new">Something new...</string>
+    <string name="text_questions">Few questions to get started</string>
+    <string name="text_employment">Choose the most fitting option:</string>
+    <string name="all_of_the_above">All of the above</string>
+    <string name="button_unemployed">I have only a little bit of free-time</string>
+    <string name="button_student">My work and free-time is in a healthy balance</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="i_have_all_the_time_in_the_world">I have all the time in the world</string>
+    <string name="my_tasks">My tasks</string>
+    <string name="generate">Generate</string>
+    <string name="button">Button</string>
+    <string name="try_again">Try again!</string>
+</resources>
